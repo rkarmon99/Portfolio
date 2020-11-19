@@ -1,3 +1,0 @@
-
-<P>Plaease click the link to view PDF File<P>
-<a href="/Portfolio/resources/Resume.pdf">Click here to download PDF of Resume</a>
